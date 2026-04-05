@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - umashankar2409/chai-devops:v1.0.1
